@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ernestosandoval
+- 👀 I’m interested in CS.
+- 📫 How to reach me ...
